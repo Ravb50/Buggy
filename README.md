@@ -14,9 +14,7 @@ This a .Net 6 application containing different scenarios with bugs for most comm
 
 ## Deployement AppService 
 
-In App Service\Deployement Center copy the github repository : https://github.com/radul1987/BuggyAppService.git
-
-![alt text](https://github.com/radul1987/BuggyAppService/blob/master/wwwroot/images/DeployAppService.png)
+In App Service\Deployement Center copy the github repository : https://github.com/Ravb50/Buggy
 
 ### Enable Basic Authentication 
 
