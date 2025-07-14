@@ -1,0 +1,10 @@
+
+                                    <!DOCTYPE html>
+                                    <html>
+                                    <body>
+                                    <h2>HTML Images</h2>
+                                    <p>HTML test image to convert to PDF :</p>
+                                    <img src="https://buggyappservice.azurewebsites.net/images/FREB.png" alt="" >
+                                    </body>
+                                    </html>
+                                    
