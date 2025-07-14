@@ -53,4 +53,4 @@ jobs:
           app-name: 'RaviWin'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_382AC740CF0348F1BA9F28A2D978CCCF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EB5082196B824B66B85E75ECD11F573F }}
