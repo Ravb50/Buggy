@@ -15,11 +15,7 @@ This a .Net 6 application deisgned by Baswani Ravinadh,containing different scen
 ## Deployement AppService 
 
 In App Service\Deployement Center copy the github repository : https://github.com/Ravb50/Buggy
-<<<<<<< HEAD
 
-
-=======
->>>>>>> f79f6439b936c6b555a25e6eb6b79a6b2651b665
 
 ### Enable Basic Authentication 
 
